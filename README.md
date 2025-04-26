@@ -1,5 +1,18 @@
 # 💫 About Me:
-Learning Node.js
+Hi there! I'm John Tharu — a passionate developer who loves building meaningful projects and learning new technologies.
+I'm currently exploring Node.js and backend development, and I'm on a journey to master full-stack web development.
+
+💻 Currently working on: Book Tracking App
+
+🚀 Goals: Build scalable web apps, contribute to open-source, and pursue a Master's in Computer Science
+
+🌱 Learning: Node.js, Express.js, MongoDB, and modern backend practices
+
+✨ Interests: Tech, startups, Iron Man, and anything that pushes boundaries
+
+📫 How to reach me: johntharu24@gmail.com | https://www.linkedin.com/in/john-tharu-667929341/
+
+💬 Always open to collaboration, ideas, and nerdy conversations!
 
 
 # 💻 Tech Stack:
